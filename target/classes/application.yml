@@ -7,4 +7,5 @@ spring:
     config:
       server:
         git:
-          uri: file:/home/fernando/Desktop/prueba-farmatodo/configuration-files 
+          uri: https://github.com/lfmartinezpantoja/configuration-files
+           
